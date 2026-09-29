@@ -4,8 +4,6 @@
 
 ### Anonimização de dados sensíveis (LGPD) em bancos Oracle
 
-Projetada e desenvolvida sozinha, do zero até produção, como DBA.
-
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white)
@@ -94,7 +92,7 @@ Fluxo de uso, sempre nessa ordem: **descobrir → configurar a técnica → revi
 
 ## 👩‍💻 Meu papel
 
-Projetei, desenvolvi e mantenho essa ferramenta **sozinha**, como DBA — da concepção inicial até rodadas sucessivas de revisão de segurança, desempenho e usabilidade, incluindo testes *end-to-end* contra um ambiente Oracle real antes de cada entrega.
+DBA responsável pelo projeto, da concepção inicial até rodadas sucessivas de revisão de segurança, desempenho e usabilidade, incluindo testes *end-to-end* contra um ambiente Oracle real antes de cada entrega.
 
 <br>
 
